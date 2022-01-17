@@ -6,4 +6,4 @@ New Line in Branch
 
 ## Author
 
-Julian
+Julian Huber
