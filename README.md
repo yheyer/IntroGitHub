@@ -13,5 +13,4 @@
 
 ## Author
 
-Yannic Heyer
-# changed name
+Yannic
